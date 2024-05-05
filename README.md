@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sohail
-- 👀 I’m interested in software engineering 
+- 👀 I’m interested in software engineering and web designing
 - 🌱 I’m currently learning, and a begginer 
 - 💞️ I’m looking to collaborate on projects 
 - 😄 Pronouns: he/him
